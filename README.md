@@ -63,7 +63,7 @@ nexusai-assistant/
 
 ```bash
 # Clone repo
-git clone https://github.com/wahidpanda/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-
+git clone https://github.com/logicstorm426/Conversational-Chatbot-with-GROQ-with-Multi-Domain-Expertise-
 cd GENE.ai
 ```
 # Setup environment
